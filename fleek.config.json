@@ -1,0 +1,16 @@
+{
+  "id": "seu-projeto-id",
+  "site": {
+    "team": "seu-username-fleek",
+    "slug": "henrique-portfolio"
+  },
+  "build": {
+    "baseDir": "",
+    "publicDir": "out",
+    "buildCommand": "npm run build",
+    "environment": {
+      "NEXT_PUBLIC_SITE_URL": "https://henrique.dev",
+      "NEXT_PUBLIC_CHAIN_ID": "8453"
+    }
+  }
+}

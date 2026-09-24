@@ -1,0 +1,8 @@
+# security.txt — RFC 9116
+# Demonstra boas práticas de InfoSec no próprio portfólio
+
+Contact: mailto:seu@email.com
+Contact: https://keybase.io/henrique
+Expires: 2027-01-01T00:00:00.000Z
+Preferred-Languages: pt-BR, en
+Canonical: https://seu-dominio.vercel.app/.well-known/security.txt
