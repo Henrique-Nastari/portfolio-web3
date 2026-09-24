@@ -1,0 +1,21 @@
+{
+  "name": "portfolio_web3",
+  "version": "1.0.0",
+  "description": "> Site portfólio pessoal multidisciplinar: InfoSec · Fullstack Developer · Data Science",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henrique-Nastari/portfolio-web3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Henrique-Nastari/portfolio-web3/issues"
+  },
+  "homepage": "https://github.com/Henrique-Nastari/portfolio-web3#readme"
+}
