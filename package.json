@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/Henrique-Nastari/portfolio-web3/issues"
   },
-  "homepage": "https://github.com/Henrique-Nastari/portfolio-web3#readme"
+  "homepage": "https://github.com/Henrique-Nastari/portfolio-web3#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "@types/react": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
 }
